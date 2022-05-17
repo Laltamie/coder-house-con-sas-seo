@@ -1,0 +1,15 @@
+﻿Index: 
+* Keywords: "Música, Instituto, Canción, Personalizado, Ministerial, Curso Kids, Curso Teens"
+* Descripción: "Instituto de Música."
+Programas: 
+* Keywords: "Música, Instituto, Personalizado, Ministerial, Curso Kids, Curso Teens, Curso Personalizado, todas las edades"
+* Descripción: "Instituto de Música. Todas las edades. Programas para niños y adultos."
+Profesores: 
+* Keywords: "Música, Personalizado, Ministerial, Curso Kids, Curso Teens, Curso Personalizado, Profesores"
+* Descripción: "Instituto de Música. Profesores calificados para cada categoría."
+Galería: 
+* Keywords: "Piano, Música, Guitarra, Canto, Ministerial, Foto"
+* Descripción: "Instituto de Música. Nuestra historia en fotografías."
+Historia: 
+* Keywords: "Música, Instituto, Historia, Quienes Somos, Marcos Witt"
+* Descripción: “Instituto de Música. Conoce nuestra trayectoria."
